@@ -1,0 +1,4 @@
+alias sst='grunt serverTest:unit'
+alias sstg='grunt serverTest:unit --grep'
+alias ngrok='~/Documents/ngrok http'
+
